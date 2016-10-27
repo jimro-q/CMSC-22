@@ -1,0 +1,5 @@
+Pong:
+Game: Two players play pong and whoever gets 5 points first wins
+      As one player gains a point, his/her racquet grows shorter
+      
+      Racquets move according to screen size for more fun
