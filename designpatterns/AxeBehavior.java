@@ -1,0 +1,9 @@
+
+package lab14;
+
+public class AxeBehavior implements WeaponBehavior {
+    public void useWeapon() {
+        System.out.println("Chuggg");
+    }
+    
+}
