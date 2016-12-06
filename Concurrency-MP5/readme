@@ -1,0 +1,5 @@
+RULE 30 I
+Program without threads
+
+RULE 30 II
+Program with threads
