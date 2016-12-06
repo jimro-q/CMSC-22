@@ -3,3 +3,6 @@ Program without threads
 
 RULE 30 II
 Program with threads
+
+DigitDeterminator
+Thread Class
